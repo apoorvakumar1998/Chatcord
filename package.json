@@ -7,7 +7,7 @@
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Brad Traversy",
+  "author": "Apoorva Kumar P",
   "license": "MIT",
   "dependencies": {
     "@socket.io/redis-adapter": "^7.1.0",
@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bradtraversy/chatcord.git"
+    "url": "https://github.com/apoorvakumar1998/chatcord"
   },
   "bugs": {
-    "url": "https://github.com/bradtraversy/chatcord/issues"
+    "url": "https://github.com/apoorvakumar1998/chatcord/pulls"
   },
-  "homepage": "https://github.com/bradtraversy/chatcord#readme"
+  "homepage": "https://github.com/apoorvakumar1998/chatcord/blob/master/README.md"
 }
